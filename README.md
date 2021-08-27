@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Guilherme
 
-## Social Media
+# Social Media
 
-![alt text](https://media.discordapp.net/attachments/633373185550843916/880637984288944138/unknown.png)
+![alt text](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)
