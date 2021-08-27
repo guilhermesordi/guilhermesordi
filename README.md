@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Guilherme <img width="28px" src="https://cdn.discordapp.com/emojis/841879038368940062.gif?v=1" />
+## Hi there <img width="28px" src="https://cdn.discordapp.com/emojis/841879038368940062.gif?v=1" />, I'm Guilherme
 
 ### Social Media
 
