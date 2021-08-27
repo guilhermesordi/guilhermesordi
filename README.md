@@ -30,5 +30,5 @@
   <img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 </a>
 <a href="https://expressjs.com/pt-br/">
-  <img width="40px" src="https://w7.pngwing.com/pngs/322/725/png-transparent-node-js-javascript-npm-express-js-sharp-miscellaneous-angle-text-thumbnail.png" />
+  <img width="40px" src="https://expressjs.com/images/express-facebook-share.png" />
 </a>
