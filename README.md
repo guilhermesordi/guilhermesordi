@@ -68,6 +68,6 @@
 <a href="https://www.typescriptlang.org/">
   <img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 </a>
-<a href="https://www.typescriptlang.org/">
+<a href="https://www.arduino.cc/">
   <img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
 </a>
