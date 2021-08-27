@@ -45,5 +45,5 @@
   <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/b/b0/NewTux.svg" />
 </a>
 <a href="https://4linux.com.br/o-que-e-linux/">
-  <img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgres/postgres.png" />
+  <img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 </a>
