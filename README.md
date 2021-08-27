@@ -41,3 +41,6 @@
 <a href="https://www.microsoft.com/pt-br/windows/">
   <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png" />
 </a>
+<a href="https://4linux.com.br/o-que-e-linux/">
+  <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/b/b0/NewTux.svg" />
+</a>
