@@ -75,5 +75,5 @@
   <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/500px-LEGO_logo.svg.png" />
 </a>
 <a href="https://scratch.mit.edu/">
-  <img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Scratchlogo.svg/1024px-Scratchlogo.svg.png" />
+  <img height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Scratchlogo.svg/1024px-Scratchlogo.svg.png" />
 </a>
