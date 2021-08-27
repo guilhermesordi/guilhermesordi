@@ -14,3 +14,9 @@
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
   <img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 </a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+  <img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+</a>
+<a href="https://pt-br.reactjs.org/">
+  <img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+</a>
