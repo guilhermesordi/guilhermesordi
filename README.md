@@ -20,3 +20,9 @@
 <a href="https://pt-br.reactjs.org/">
   <img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 </a>
+<a href="https://vuejs.org/">
+  <img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+</a>
+<a href="https://ionicframework.com/">
+  <img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ionic/ionic.png" />
+</a>
