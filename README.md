@@ -75,5 +75,5 @@
   <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/500px-LEGO_logo.svg.png" />
 </a>
 <a href="https://scratch.mit.edu/">
-  <img width="40px" src="https://w1.pngwing.com/pngs/925/885/png-transparent-scratch-logo-cat-programming-language-computer-programming-scratching-mit-media-lab-coderdojo-blend-t-yellow-line.png" />
+  <img width="40px" src="https://scratch.mit.edu/favicon.ico" />
 </a>
