@@ -2,4 +2,4 @@
 
 # Social Media
 
-<img align="left" width="22px" src="https://user-images.githubusercontent.com/79471410/131130851-ad3d2cb9-7473-4a20-965b-2cbe1aaaaad8.png" />
+<img align="left" width="30px" src="https://user-images.githubusercontent.com/79471410/131131426-f06bf07e-e353-441b-87e3-7f1fe2705ea8.png" />
