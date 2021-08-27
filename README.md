@@ -47,6 +47,9 @@
 <a href="https://www.postgresql.org/">
   <img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 </a>
-<a href="https://www.postgresql.org/">
+<a href="https://sass-lang.com/">
   <img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+</a>
+<a href="https://sass-lang.com/">
+  <img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
 </a>
