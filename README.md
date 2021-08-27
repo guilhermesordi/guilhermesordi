@@ -2,4 +2,4 @@
 
 # Social Media
 
-![alt text](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)
+![image](https://user-images.githubusercontent.com/79471410/131130851-ad3d2cb9-7473-4a20-965b-2cbe1aaaaad8.png)
