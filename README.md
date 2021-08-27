@@ -59,3 +59,6 @@
 <a href="https://www.npmjs.com/">
   <img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
 </a>
+<a href="https://www.npmjs.com/">
+  <img width="40px" src="https://getlogovector.com/wp-content/uploads/2020/07/postman-inc-logo-vector.png" />
+</a>
